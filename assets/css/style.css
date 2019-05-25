@@ -1,0 +1,37 @@
+header {
+    position: relative;
+    margin: 0 auto 0 auto;
+    padding: 50px;
+}
+
+aside {
+    position: absolute;
+    width: 20%;
+    left: 0;
+    text-align: center;
+    color: #fff;
+    background-color: #4aaaa5;
+    font-family: Geo00rgia, 'Times New Roman', Times, serif;
+}
+
+nav {
+    position: absolute; 
+    width: 80%;
+    right: 0;
+    text-align: right;
+
+}
+
+body {
+    margin: 0 auto 0 auto;
+    width: 960px;
+    background-image: url(../images/dynamic-style.png)
+}
+
+h2 {
+    text-align: left;
+}
+
+.box-text: {
+
+}
